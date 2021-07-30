@@ -1,4 +1,4 @@
-module gitlab.ms4.work/motorsport.tv/v2/infrastructure/cleanup-features
+module https://github.com/madanton1994/k8s-features-cleaner
 
 go 1.16
 
